@@ -1,7 +1,7 @@
 '''
     Autor : Matheus Yasuo Ribeiro Utino
 
-    Esse programa tem como objetivo plotar um função e exibi-la, ele é bem simples e novo parâmetros poderiam ser utilizados,todavia
+    Esse programa tem como objetivo plotar um função e exibi-la, com opção de salvar a imagem, ele é bem simples e novo parâmetros poderiam ser utilizados,todavia
     como seria para casos mais específicos ou apenas questão de customização descidi não implementar.
     Bons estudos a todos!!!
 '''
@@ -13,7 +13,7 @@ import numpy
 LIMITE_INFERIOR = -1000
 LIMITE_SUPERIOR = 1000
 PASSO = 1
-#Caso deseja não colocar algum desses parâmetros apenas deixe ""
+#Caso deseje não colocar algum desses parâmetros apenas deixe apenas ""
 TITULO = "Gráfico"
 LABEL_X = "Eixo x"
 LABEL_Y = "Eixo Y"
